@@ -1,0 +1,18 @@
+nav{
+	text-align: center;
+}
+.menu{
+	text-decoration: none;
+	border: 1px solid white;
+	width: 200px; 
+	height: 300px ;
+	display: inline-block;
+	padding: 15px 10px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	background-color: #FBFBFB;
+	color:#878787;
+}
+.menu h3{
+	font-family: 'Montserrat', sans-serif;
+}
