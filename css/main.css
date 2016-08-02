@@ -1,5 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
 nav{
 	text-align: center;
+
 }
 .menu{
 	text-decoration: none;
@@ -12,7 +16,21 @@ nav{
 	text-align: center;
 	background-color: #FBFBFB;
 	color:#878787;
+	position: relative;
+	top: 150px;
 }
 .menu h3{
 	font-family: 'Montserrat', sans-serif;
+} 
+a:hover{
+    width:300px,
+    height:400px;
+    color:#A7B9DA ;
+    background-color:white;
+    font-family:"Montserrat";
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1)
 }
